@@ -107,12 +107,23 @@
 
 ## 🚀 Featured Projects
 
-Coming soon! Check out my repositories for:
-- 📱 **Flutter E-Commerce Applications**
-- 💬 **Real-Time Chat & Messaging Apps**
-- 🧾 **Productivity & Utility Apps**
-- 📊 **Dashboard & Data Analytics Applications**
-- 🛒 **Business & Service Management Apps**
+### 1. **Craftybay** - E-Commerce Application
+🔗 [View Repository](https://github.com/delwarhossainsadhin/Craftybay)
+- Fully functional e-commerce mobile app with Firebase integration
+- User authentication, product catalog, shopping cart, and payment integration
+- Built with Flutter, Dart, and Firebase
+
+### 2. **Task Manager with GetX** - Productivity App
+🔗 [View Repository](https://github.com/delwarhossainsadhin/Task-Manager-with-getX)
+- Advanced task management application using GetX state management
+- Real-time task synchronization and local storage
+- Clean architecture and optimized performance
+
+### 3. **DH Task Manager** - Task Management Solution
+🔗 [View Repository](https://github.com/delwarhossainsadhin/dh-task-manager)
+- Feature-rich task manager with advanced filtering and sorting
+- Persistent local database with SQLite
+- Intuitive UI with smooth animations
 
 ---
 
