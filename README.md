@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1200&color=00D9FF&center=true&vCenter=true&width=900&height=120&lines=Hi+there!+I'm+Delwar+Hossain+Sadhin;Mobile+App+Development;Cross-Platform+Solutions;Flutter+Expert;UI%2FUX+Enthusiast" alt="Hi there! I'm Delwar Hossain Sadhin" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1200&color=00D9FF&center=true&vCenter=true&width=1000&height=160&lines=Hi+there!+I'm+Delwar+Hossain+Sadhin;🎯+Mobile+App+Development;🌐+Cross-Platform+Solutions;📱+Flutter+Expert;🎨+UI%2FUX+Enthusiast" alt="Hi there! I'm Delwar Hossain Sadhin" />
 </h1>
 
 <div align="center">
