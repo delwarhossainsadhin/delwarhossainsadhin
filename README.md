@@ -2,7 +2,11 @@
   <img src="https://avatars.githubusercontent.com/u/delwarhossainsadhin?v=4" width="220" height="220" alt="Delwar Hossain Sadhin" style="border-radius:50%;" />
 </div>
 
-<h1 align="center">Hi there! I'm Delwar Hossain Sadhin 👋</h1>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=500&height=70&lines=Hi+there!+I'm+Delwar+Hossain+Sadhin+👋;Flutter+Developer;Cross-Platform+Developer;Mobile+Enthusiast" alt="Typing SVG" />
+  </a>
+</h1>
 
 <h3 align="center">📱 Flutter App Developer | Cross-Platform Developer | Mobile Enthusiast</h3>
 
