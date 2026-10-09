@@ -1,3 +1,22 @@
+# Hi I'm Delwar Hossain Sadhin
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/mddelwarhossainsadhin/?isSelfProfile=true" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:delwarhossainsadhin@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://github.com/delwarhossainsadhin" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.facebook.com/delwarhossainsadhin" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/FACEBOOK-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a>
+</div>
+
+---
+
 ## 👨‍💻 About Me
 
 - 📱 **Flutter Developer** - Building beautiful, fast, and scalable cross-platform mobile applications for Android, iOS, and Web
