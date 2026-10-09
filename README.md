@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">
-  <a href="https://git.io/typing-svg">
+  <a href="https://github.com/delwarhossainsadhin" target="_blank" rel="noopener noreferrer">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=700&height=80&lines=📱+Mobile+App+Developer;🚀+Cross-Platform+Developer;💡+Mobile+Enthusiast" alt="Mobile App Developer" />
   </a>
 </h1>
@@ -11,16 +11,16 @@
 <h3 align="center">📱 Flutter App Developer | Cross-Platform Developer | Mobile Enthusiast</h3>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/mddelwarhossainsadhin/?isSelfProfile=true">
+  <a href="https://www.linkedin.com/in/mddelwarhossainsadhin/?isSelfProfile=true" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:delwarhossainsadhin@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://github.com/delwarhossainsadhin">
+  <a href="https://github.com/delwarhossainsadhin" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://www.facebook.com/delwarhossainsadhin">
+  <a href="https://www.facebook.com/delwarhossainsadhin" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
   </a>
 </div>
