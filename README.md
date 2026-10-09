@@ -17,6 +17,14 @@
   </a>
 </div>
 
+<p align="center">
+  I am a passionate <b>Mobile App Developer</b> specializing in cross-platform application development. With a strong focus on building scalable, user-friendly, and performant mobile applications, I combine technical expertise with a keen eye for UI/UX design.
+</p>
+
+<p align="center">
+  <b>🎯 Mobile App Development</b> | <b>🌐 Cross-Platform Solutions</b> | <b>📱 Flutter Expert</b> | <b>🎨 UI/UX Enthusiast</b>
+</p>
+
 ---
 
 ## 👨‍💻 About Me
