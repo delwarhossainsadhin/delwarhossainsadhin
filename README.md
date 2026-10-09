@@ -96,6 +96,20 @@
 
 ---
 
+## 📜 Certifications
+
+### 🎓 App Development with Flutter
+- **Institution:** Ostad
+- **Certificate ID:** C45474
+- **Instructors:** 
+  - Rafat Meraz (Ostad The Coach)
+  - Md. Taufiqur Rahman (Ostad The Coach)
+  - Abdullah Al Musabbir (CEO, Ostad Ltd.)
+- **Status:** ✅ Successfully Completed
+- **Skills Acquired:** Flutter, Dart, Firebase, State Management, UI/UX Design, App Architecture
+
+---
+
 ## 📊 GitHub Statistics
 
 <div align="center">
