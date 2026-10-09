@@ -1,4 +1,6 @@
-# Hi I'm Delwar Hossain Sadhin
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&height=80&lines=Hi+there!+I'm+Delwar+Hossain+Sadhin" alt="Hi there! I'm Delwar Hossain Sadhin" />
+</h1>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/mddelwarhossainsadhin/?isSelfProfile=true" target="_blank" rel="noopener noreferrer">
