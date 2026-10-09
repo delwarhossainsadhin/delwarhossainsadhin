@@ -57,56 +57,16 @@
 
 ---
 
-## 📱 Mobile Development Experience
+## 🚀 Featured Projects
 
-✅ **Cross-Platform Development** - Building apps for Android, iOS, and Web using Flutter
-✅ **Firebase Integration** - Authentication, Firestore, Real-time Database, Cloud Storage
-✅ **State Management** - Implementing Provider, Riverpod, and BLoC patterns
-✅ **Local Storage** - SQLite, Hive, and SharedPreferences
-✅ **API Integration** - REST APIs with Dio and HTTP client
-✅ **UI/UX Design** - Material Design, animations, and responsive layouts
-✅ **App Deployment** - Google Play Store and app distribution
-✅ **Performance Optimization** - Code optimization and app efficiency
+### 1. **Craftybay** - E-Commerce Application
+🔗 [View Repository](https://github.com/delwarhossainsadhin/Craftybay)
 
----
+### 2. **Task Manager with GetX** - Productivity App
+🔗 [View Repository](https://github.com/delwarhossainsadhin/Task-Manager-with-getX)
 
-## 💼 Key Skills
-
-| Skill | Proficiency |
-|-------|-------------|
-| **Flutter** | ⭐⭐⭐⭐⭐ Advanced |
-| **Dart** | ⭐⭐⭐⭐⭐ Advanced |
-| **Firebase** | ⭐⭐⭐⭐ Intermediate-Advanced |
-| **State Management** | ⭐⭐⭐⭐ Intermediate-Advanced |
-| **UI/UX Design** | ⭐⭐⭐⭐ Intermediate-Advanced |
-| **REST APIs** | ⭐⭐⭐⭐ Intermediate-Advanced |
-| **Git & Version Control** | ⭐⭐⭐⭐ Intermediate-Advanced |
-
----
-
-## 🏆 Achievements
-
-- ✅ Developed and deployed multiple Flutter applications
-- ✅ Successfully published apps on Google Play Store
-- ✅ Implemented secure Firebase authentication systems
-- ✅ Designed and built responsive mobile UIs with smooth animations
-- ✅ Optimized app performance and user experience
-- ✅ Collaborated with teams on real-world production applications
-- ✅ Contributed to open-source projects
-
----
-
-## 📜 Certifications
-
-### 🎓 App Development with Flutter
-- **Institution:** Ostad
-- **Certificate ID:** C45474
-- **Instructors:** 
-  - Rafat Meraz (Ostad The Coach)
-  - Md. Taufiqur Rahman (Ostad The Coach)
-  - Abdullah Al Musabbir (CEO, Ostad Ltd.)
-- **Status:** ✅ Successfully Completed
-- **Skills Acquired:** Flutter, Dart, Firebase, State Management, UI/UX Design, App Architecture
+### 3. **DH Task Manager** - Task Management Solution
+🔗 [View Repository](https://github.com/delwarhossainsadhin/dh-task-manager)
 
 ---
 
@@ -115,71 +75,4 @@
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=delwarhossainsadhin&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=delwarhossainsadhin&layout=compact&langs_count=8&theme=tokyonight" alt="Top Languages"/>
-</div>
-
----
-
-## 🚀 Featured Projects
-
-### 1. **Craftybay** - E-Commerce Application
-🔗 [View Repository](https://github.com/delwarhossainsadhin/Craftybay)
-- Fully functional e-commerce mobile app with Firebase integration
-- User authentication, product catalog, shopping cart, and payment integration
-- Built with Flutter, Dart, and Firebase
-
-### 2. **Task Manager with GetX** - Productivity App
-🔗 [View Repository](https://github.com/delwarhossainsadhin/Task-Manager-with-getX)
-- Advanced task management application using GetX state management
-- Real-time task synchronization and local storage
-- Clean architecture and optimized performance
-
-### 3. **DH Task Manager** - Task Management Solution
-🔗 [View Repository](https://github.com/delwarhossainsadhin/dh-task-manager)
-- Feature-rich task manager with advanced filtering and sorting
-- Persistent local database with SQLite
-- Intuitive UI with smooth animations
-
----
-
-## 🔗 Connect With Me
-
-<div align="center">
-
-| Platform | Link |
-|----------|------|
-| **LinkedIn** | [md-delwar-hossain-sadhin](https://www.linkedin.com/in/mddelwarhossainsadhin/?isSelfProfile=true) |
-| **GitHub** | [delwarhossainsadhin](https://github.com/delwarhossainsadhin) |
-| **Facebook** | [Delwar Hossain Sadhin](https://www.facebook.com/delwarhossainsadhin) |
-| **Email** | delwarhossainsadhin@gmail.com |
-
-</div>
-
----
-
-## 💡 Recent Activity
-
-- 🚀 Building new Flutter applications
-- 📚 Learning advanced Flutter architecture patterns
-- 🤝 Contributing to open-source Flutter projects
-- 💬 Sharing knowledge with the developer community
-
----
-
-## 📢 Let's Connect!
-
-**Are you looking for a Flutter Developer for your next mobile app project?**
-
-Feel free to reach out to me at:
-- 📧 **Email:** delwarhossainsadhin@gmail.com
-- 💼 **LinkedIn:** [md-delwar-hossain-sadhin](https://www.linkedin.com/in/mddelwarhossainsadhin/?isSelfProfile=true)
-- 📘 **Facebook:** [Delwar Hossain Sadhin](https://www.facebook.com/delwarhossainsadhin)
-
----
-
-<div align="center">
-
-### ⭐ If you find my work helpful, please give a star and follow!
-
-**Last Updated:** October 2026 | 🔄 Regularly Updated
-
 </div>
