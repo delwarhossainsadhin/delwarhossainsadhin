@@ -57,6 +57,17 @@
 
 ---
 
+## 📜 Certifications
+
+### 🎓 App Development with Flutter
+- **Institution:** Ostad
+- **Certificate ID:** C45474
+- **Instructors:** Rafat Meraz, Md. Taufiqur Rahman, Abdullah Al Musabbir
+- **Status:** ✅ Successfully Completed
+- **Skills Acquired:** Flutter, Dart, Firebase, State Management, UI/UX Design, App Architecture
+
+---
+
 ## 🚀 Featured Projects
 
 ### 1. **Craftybay** - E-Commerce Application
