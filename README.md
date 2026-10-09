@@ -4,7 +4,7 @@
 
 <h1 align="center">
   <a href="https://github.com/delwarhossainsadhin" target="_blank" rel="noopener noreferrer">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=700&height=80&lines=Hi+I'm+Delwar+Hossain;📱+Mobile+App+Developer;🚀+Cross-Platform+Developer;💡+Mobile+Enthusiast" alt="Hi I'm Delwar Hossain Sadhin " />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=700&height=80&lines=Hi+I'm+Delwar+Hossain;📱+Mobile+App+Developer;🚀+Cross-Platform+Developer;💡+Mobile+Enthusiast" alt="Hi I'm Delwar Hossain  " />
   </a>
 </h1>
 
